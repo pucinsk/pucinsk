@@ -19,8 +19,7 @@ Latest blog posts:
 
 ```
 (1..15).each do
-    s = (it % 3).zero? ? 'Foo' : ''
-    p (it % 5).zero? ? s + 'Bar' : it
+    p it % 5 == 0 ? "#{'Foo' if it % 3 == 0}Bar" : it
 end
 ```
 <!--
