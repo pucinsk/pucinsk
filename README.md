@@ -12,6 +12,17 @@ Latest blog posts:
 [2024-11-08] [3 useful VS Code extensions for testing Ruby code](https://dev.to/pucinsk/3-vs-code-extensions-for-testing-ruby-code-f14)
 
 [2024-11-02] [Ruby exceptions: tips & tricks](https://dev.to/pucinsk/ruby-exceptions-tips-tricks-596c)
+
+---
+
+*Here's my take on FooBar challenge:*
+
+```
+(1..15).each do
+    s = (it % 3).zero? ? 'Foo' : ''
+    p (it % 5).zero? ? s + 'Bar' : it
+end
+```
 <!--
 **pucinsk/pucinsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
