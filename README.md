@@ -7,8 +7,14 @@ Back-end oriented Software Developer. I have been using Ruby/Rails to solve prob
 
 🔭 Currently working on:
 
-- [BIG TEXT NOW](https://github.com/pucinsk/big-text-now) - embiggen text and show it to anyone in the browser - Preact/Htm/TailwindCSS
-- [What Stem?](https://github.com/pucinsk/what-stem) - compare different bicycle stems visually - StimulusJS/KonvaJS/TailwindCSS
+- [BIG TEXT NOW](https://github.com/pucinsk/big-text-now)  
+  [🌐 View on GitHub Pages](https://pucinsk.github.io/big-text-now) - embiggen text and show it to anyone in the browser  
+  _Preact / Htm / TailwindCSS_
+
+- [What Stem?](https://github.com/pucinsk/what-stem)  
+  [🌐 View on GitHub Pages](https://pucinsk.github.io/what-stem) - compare different bicycle stems visually  
+  _StimulusJS / KonvaJS / TailwindCSS_
+
 
 ---
 💬 Latest blog posts:
