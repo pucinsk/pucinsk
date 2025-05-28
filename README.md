@@ -3,11 +3,15 @@
 Back-end oriented Software Developer. I have been using Ruby/Rails to solve problems, create applications for the last 6 years. I am passionate about good practices, testing and writing scalable code. A small part of me is a front-end developer who codes JavaScript and creates interactive UIs with ReactJS.
 
 [<img src="https://www.linkedin.com/favicon.ico" width="25"/>](https://www.linkedin.com/in/jokubas-pucinskas/)
-[<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="25"/>](mailto:j.pucinskas@gmail.com)
-[<img src="https://facebook.com/favicon.ico" width="25"/>](https://www.facebook.com/pucinsk/)
-[<img src="https://www.instagram.com/favicon.ico" width="25"/>](https://www.instagram.com/pucinsk)
+[<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="25"/>](mailto:jokubas.dev@gmail.com)
 
-Latest blog posts:
+🔭 Currently working on:
+
+- [BIG TEXT NOW](https://github.com/pucinsk/big-text-now) - embiggen text and show it to anyone in the browser - Preact/Htm/TailwindCSS
+- [What Stem?](https://github.com/pucinsk/what-stem) - compare different bicycle stems visually - StimulusJS/KonvaJS/TailwindCSS
+
+---
+💬 Latest blog posts:
 
 [2024-11-08] [3 useful VS Code extensions for testing Ruby code](https://dev.to/pucinsk/3-vs-code-extensions-for-testing-ruby-code-f14)
 
