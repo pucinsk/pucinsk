@@ -6,7 +6,8 @@ Back-end oriented Software Developer. I have been using Ruby/Rails to solve prob
 [<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="25"/>](mailto:jokubas.dev@gmail.com)
 
 🔭 Currently working on:
-
+- [Callback](https://github.com/pucinsk/callbacky) - lighweight gem for Ruby applications to implement declrative custom callbacks  
+  _Ruby / Metaprogramming_
 - [BIG TEXT NOW](https://github.com/pucinsk/big-text-now)  
   [🌐 View on GitHub Pages](https://pucinsk.github.io/big-text-now) - embiggen text and show it to anyone in the browser  
   _Preact / Htm / TailwindCSS_
