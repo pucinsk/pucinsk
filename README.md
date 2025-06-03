@@ -19,6 +19,7 @@ Back-end oriented Software Developer. I have been using Ruby/Rails to solve prob
 
 ---
 💬 Latest blog posts:
+[2025-06-03] [Callbacky - bring callbacks to simple Ruby objects](https://dev.to/pucinsk/callbacky-bring-callbacks-to-ruby-objects-5d2p)
 
 [2024-11-08] [3 useful VS Code extensions for testing Ruby code](https://dev.to/pucinsk/3-vs-code-extensions-for-testing-ruby-code-f14)
 
